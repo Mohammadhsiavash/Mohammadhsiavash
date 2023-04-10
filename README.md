@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mohammadhsiavash
-- 👀 I’m interested in gaming, programming
+- 👋 Hi, I’m @Mohammadh Siavash
+- 👀 I’m interested in Ai, programming, gaming.
 - 🌱 I’m currently learning deep learning
 
 
